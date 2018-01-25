@@ -26,4 +26,8 @@ public class RandomModel {
     public String getDob() {
         return dob;
     }
+
+    public String getCell() {
+        return cell;
+    }
 }
