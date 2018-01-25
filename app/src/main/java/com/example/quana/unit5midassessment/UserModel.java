@@ -4,7 +4,7 @@ package com.example.quana.unit5midassessment;
  * Created by Quana on 1/24/18.
  */
 
-public class RandomModel {
+public class UserModel {
     private String name;
     private String location;
     private String email;
